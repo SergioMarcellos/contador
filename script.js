@@ -1,5 +1,5 @@
 // Define a data alvo para o contador (pode ser alterada)
-const targetDate = new Date('2026-12-31T23:59:59').getTime();
+const targetDate = new Date('2026-05-28T23:59:59').getTime();
 
 function updateCountdown() {
     // Obtém a hora atual
